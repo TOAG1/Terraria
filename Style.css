@@ -1,0 +1,156 @@
+body {
+    background-image: url("https://forums.terraria.org/index.php?attachments/31583/") ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    min-height: 500px;
+}
+
+h1 {
+    background: -webkit-linear-gradient(#1dd661, #986a50);
+    font-family: 'Patrick Hand', cursive;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin: 1px;
+}
+
+h2 {
+    font-family: 'Patrick Hand', cursive;
+}
+
+p {
+    font-family: 'Patrick Hand', cursive;
+    font-size:30px;
+}
+
+#boss-menu {
+    background-image: url("https://static.wikia.nocookie.net/terraria_gamepedia/images/3/38/Gray_Brick_Wall_%28placed%29.png");
+    padding: 0px 20px 20px 0px;
+    display:inline-block;
+    float: left;
+    position: relative; 
+    width: 120px;
+    height: 7100px;
+}
+
+#ore-menu {
+       background-image: url("https://static.wikia.nocookie.net/terraria_gamepedia/images/3/38/Gray_Brick_Wall_%28placed%29.png");
+    padding: 0px 20px 20px 0px;
+    display:inline-block;
+    float: left;
+    position: relative; 
+    width: 120px;
+    height: 979px; 
+}
+
+.menu {
+    background-image: url("https://static.wikia.nocookie.net/terraria_gamepedia/images/3/38/Gray_Brick_Wall_%28placed%29.png");
+    padding: 0px 20px 20px 0px;
+    display:inline-block;
+    float: left;
+    position: relative; 
+    width: 120px;
+    height: 979px;
+}
+
+.bosses-img {
+    width:300px;
+    height:200px;
+}
+
+.center {
+    text-align: center;
+}
+
+.title {
+    font-size:50px;
+    color: darkred;
+}
+
+.Ot {
+    color:white;
+    background-size: 32px 32px;
+    background-image: url("https://static.wikia.nocookie.net/terraria_gamepedia/images/2/2f/Titanstone_Block_Wall_%28placed%29.png");
+}
+
+ht {
+ font-size:20;   
+}
+
+h6.p2 {
+    position: center; 
+    text-align: center;
+    right: 600px;   
+}
+
+.p2 {
+    width:300px;
+    height:200px;
+    background-size: 300px 200px;
+    background-image: url("https://static.wikia.nocookie.net/terraria_gamepedia/images/b/b1/Plantera.png");
+}
+
+.p2:hover {
+    background-position: 50% 50%; 
+    background-image: url("https://static.wikia.nocookie.net/terraria_gamepedia/images/e/e7/Plantera_%28Phase_2%29.png");
+}
+
+.td {
+    font-family: 'Patrick Hand', cursive;
+    font-size:20px;
+    text-align:center;
+}
+
+.refrence {
+    font-family: 'Patrick Hand', cursive;
+    font-size:8px;
+    text-align:center;
+}
+
+a:link {
+  color: gray;
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
+a:hover {
+  color: darkblue;
+}
+
+a:active {
+  color: black;
+}
+
+.IIcon {
+  width:45px;
+  height:45px;
+  display:inline;
+}
+
+.IIcon:hover {
+  filter: drop-shadow(5px 5px 2.5px black)
+}
+
+.TIcon {
+  display:inline;
+}
+
+h3 {
+    color:#5e5e5e;
+}
+
+}
+
+.zoom {
+    display:block;
+}
+
+.importent {
+ color:red;
+ font-size:15px;
+}
+}
